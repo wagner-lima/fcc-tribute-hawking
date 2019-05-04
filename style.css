@@ -1,0 +1,55 @@
+html,body{
+  font-family:"Arial", Calibri;
+  text-align:center;
+  min-width:150px;
+  color:#706F6F;
+}
+#title{
+  font-family:"Calibri";
+  color: #000080;
+}
+#main{
+  margin:15px auto;
+  padding: 15px;
+  border: 2px solid;
+  border-radius: 50px;
+  background:#DCDCDC;
+}
+img{
+  max-width: 100%; 
+  display: block; 
+  height: auto;
+  margin: auto;
+}
+#img-div{
+  margin:0px;
+  margin-top:20px;
+  width:100%;
+  border: 1px solid #DCDCDC;
+  background:#DCDCDC;
+}
+#img-caption{
+  margin:20px;
+}
+#headline{
+  margin-top:20px;
+  text-align: center;
+}
+ul{
+  max-width:600px;
+  margin-left:40%;
+  text-align:justify;
+}
+li{
+  margin: 10px;
+  margin-top: 15px;
+}
+ol{
+  margin-top: 20px;
+}
+#final{
+  font-style: italic;
+  font-family: "Arial";
+  font-color: #000000;
+  margin-top: 35px;
+}
